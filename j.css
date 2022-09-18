@@ -1,0 +1,17 @@
+h2 {
+  color: white;
+}
+.peopleimg {
+  background-color: bisque;
+  padding: auto;
+  border-radius: 50%;
+}
+blockquote {
+  color: antiquewhite;
+}
+
+.para {
+  color: blanchedalmond;
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+}
